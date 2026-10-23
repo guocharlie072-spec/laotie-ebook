@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+
+# 个人书库数据（不发布，仅本地使用）
+知识库/
+*.pdf
+*.epub
+raw.txt
+raw_extracted.txt
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# 临时/日志
+*.log
